@@ -1,0 +1,10 @@
+com/example/App.class
+com/example/UX/Prompts.class
+com/example/Utils/Generator.class
+com/example/Utils/DataInitlizer.class
+com/example/data/Databook.class
+com/example/core/Student.class
+com/example/core/Person.class
+com/example/core/EnsStudent.class
+com/example/Services/UserDataHandler.class
+com/example/Utils/SearchFor.class
